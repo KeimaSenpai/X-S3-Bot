@@ -1,9 +1,9 @@
-xmltodict
-python-telegram-bot
 ujson
+requests
 xmltodict
 pyOpenSSL
-requests
+
 youtube-dl
-raw-zlib
+
 telethon
+python-telegram-bot
