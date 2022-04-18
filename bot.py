@@ -11,7 +11,7 @@ import requests
 import re
 import threading
 
-bot_token = '5252388096:AAFIYVUhzHuYaPIInS5TVfvXGl_g12ZbCd4'
+bot_token = '5252388096:AAH2vMvnXW_ROC8nVmdn8BRF_LKIXnftc5A'
 api_id = 11029886
 api_hash = '4e74899bfd41879c6a4b48cf6a07f456'
 
