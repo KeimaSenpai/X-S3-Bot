@@ -1,9 +1,3 @@
 {
-    "name": "post-bot",
-    "env": {
-        "TELEGRAM_TOKEN": {
-            "description": "el token del bot de telegram que te da https://t.me/BotFather",
-            "value": "5193928218:AAGRAys1TZEyO-o40bOIWT0pXdU6CGIPSgc"
-        }
-    }
+    "name": "post-bot"
 }
