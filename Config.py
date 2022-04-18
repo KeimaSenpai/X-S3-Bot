@@ -1,6 +1,6 @@
 class Config(object):
       def __init__(self):
-          self.BotToken     = '5252388096:AAFIYVUhzHuYaPIInS5TVfvXGl_g12ZbCd4'
+          self.BotToken     = '5252388096:AAH2vMvnXW_ROC8nVmdn8BRF_LKIXnftc5A'
           self.S3Token      = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjU1ODE0NTgsInVzZXJuYW1lIjoiNTM1OTYzNDI0NSIsInZlcnNpb24iOiIyMTgwOCJ9.gGLXlAyWlXG54SRtPLG5tvqAApDuoLMO2yJa3BLeJT0'
           self.ChunkSize    = 10
           self.ChunkFixed   = 150
